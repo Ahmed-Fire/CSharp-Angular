@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F0BC39D0-B66E-4F0A-86BE-57FE96371064}|Default">
+  <MonoDevelop.Ide.ItemProperties.kamp__intro PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="donguler/Program.cs">
+    <Files>
+      <File FileName="donguler/Program.cs" Line="14" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="kamp_intro" expanded="True">
+            <Node name="donguler" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="kamp_intro" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
