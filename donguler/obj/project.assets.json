@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmedkamal/C_Sharp/kamp_intro/donguler/donguler.csproj",
+      "projectUniqueName": "/Users/ahmedkamal/CSharp-Angular/donguler/donguler.csproj",
       "projectName": "donguler",
-      "projectPath": "/Users/ahmedkamal/C_Sharp/kamp_intro/donguler/donguler.csproj",
+      "projectPath": "/Users/ahmedkamal/CSharp-Angular/donguler/donguler.csproj",
       "packagesPath": "/Users/ahmedkamal/.nuget/packages/",
-      "outputPath": "/Users/ahmedkamal/C_Sharp/kamp_intro/donguler/obj/",
+      "outputPath": "/Users/ahmedkamal/CSharp-Angular/donguler/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ahmedkamal/.config/NuGet/NuGet.Config"
