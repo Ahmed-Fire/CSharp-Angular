@@ -1,0 +1,4 @@
+/Users/ahmedkamal/C_Sharp/kamp_intro/donguler/obj/Debug/netcoreapp3.1/donguler.csprojAssemblyReference.cache
+/Users/ahmedkamal/C_Sharp/kamp_intro/donguler/obj/Debug/netcoreapp3.1/donguler.AssemblyInfoInputs.cache
+/Users/ahmedkamal/C_Sharp/kamp_intro/donguler/obj/Debug/netcoreapp3.1/donguler.AssemblyInfo.cs
+/Users/ahmedkamal/C_Sharp/kamp_intro/donguler/obj/Debug/netcoreapp3.1/donguler.csproj.CoreCompileInputs.cache
