@@ -6,10 +6,20 @@ namespace donguler
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 10; i++)
+
+            string kurs1 = "C#";
+            string kurs2 = "JAVA";
+            string kurs3 = "React";
+
+            string[] kurslar = new string[] {"C#", "JAVA", "React","C++"};
+
+
+            for (int i = 0; i < kurslar.Length; i++)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(kurslar[i]);
             }
+
+            Console.WriteLine("Footer");
         }
     }
 }
