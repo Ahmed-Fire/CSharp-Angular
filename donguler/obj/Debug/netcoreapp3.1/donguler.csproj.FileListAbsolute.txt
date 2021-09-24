@@ -2,3 +2,15 @@
 /Users/ahmedkamal/C_Sharp/kamp_intro/donguler/obj/Debug/netcoreapp3.1/donguler.AssemblyInfoInputs.cache
 /Users/ahmedkamal/C_Sharp/kamp_intro/donguler/obj/Debug/netcoreapp3.1/donguler.AssemblyInfo.cs
 /Users/ahmedkamal/C_Sharp/kamp_intro/donguler/obj/Debug/netcoreapp3.1/donguler.csproj.CoreCompileInputs.cache
+/Users/ahmedkamal/CSharp-Angular/donguler/bin/Debug/netcoreapp3.1/donguler.deps.json
+/Users/ahmedkamal/CSharp-Angular/donguler/bin/Debug/netcoreapp3.1/donguler.runtimeconfig.json
+/Users/ahmedkamal/CSharp-Angular/donguler/bin/Debug/netcoreapp3.1/donguler.runtimeconfig.dev.json
+/Users/ahmedkamal/CSharp-Angular/donguler/bin/Debug/netcoreapp3.1/donguler.dll
+/Users/ahmedkamal/CSharp-Angular/donguler/bin/Debug/netcoreapp3.1/donguler.pdb
+/Users/ahmedkamal/CSharp-Angular/donguler/obj/Debug/netcoreapp3.1/donguler.csprojAssemblyReference.cache
+/Users/ahmedkamal/CSharp-Angular/donguler/obj/Debug/netcoreapp3.1/donguler.AssemblyInfoInputs.cache
+/Users/ahmedkamal/CSharp-Angular/donguler/obj/Debug/netcoreapp3.1/donguler.AssemblyInfo.cs
+/Users/ahmedkamal/CSharp-Angular/donguler/obj/Debug/netcoreapp3.1/donguler.csproj.CoreCompileInputs.cache
+/Users/ahmedkamal/CSharp-Angular/donguler/obj/Debug/netcoreapp3.1/donguler.dll
+/Users/ahmedkamal/CSharp-Angular/donguler/obj/Debug/netcoreapp3.1/donguler.pdb
+/Users/ahmedkamal/CSharp-Angular/donguler/obj/Debug/netcoreapp3.1/donguler.genruntimeconfig.cache
