@@ -11,7 +11,7 @@ namespace donguler
             string kurs2 = "JAVA";
             string kurs3 = "React";
 
-            string[] kurslar = new string[] {"C#", "JAVA", "React","C++","VUE"};
+            string[] kurslar = new string[] {"C#", "JAVA", "React","C++"};
 
 
             for (int i = 0; i < kurslar.Length; i++)
