@@ -19,6 +19,11 @@ namespace donguler
                 Console.WriteLine(kurslar[i]);
             }
 
+            foreach (string kurs in kurslar)
+            {
+                Console.WriteLine(kurs);
+            }
+
             Console.WriteLine("Footer");
         }
     }
