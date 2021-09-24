@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmedkamal/C_Sharp/kamp_intro/kamp_intro/kamp_intro.csproj": {}
+    "/Users/ahmedkamal/CSharp-Angular/kamp_intro/kamp_intro.csproj": {}
   },
   "projects": {
-    "/Users/ahmedkamal/C_Sharp/kamp_intro/kamp_intro/kamp_intro.csproj": {
+    "/Users/ahmedkamal/CSharp-Angular/kamp_intro/kamp_intro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmedkamal/C_Sharp/kamp_intro/kamp_intro/kamp_intro.csproj",
+        "projectUniqueName": "/Users/ahmedkamal/CSharp-Angular/kamp_intro/kamp_intro.csproj",
         "projectName": "kamp_intro",
-        "projectPath": "/Users/ahmedkamal/C_Sharp/kamp_intro/kamp_intro/kamp_intro.csproj",
+        "projectPath": "/Users/ahmedkamal/CSharp-Angular/kamp_intro/kamp_intro.csproj",
         "packagesPath": "/Users/ahmedkamal/.nuget/packages/",
-        "outputPath": "/Users/ahmedkamal/C_Sharp/kamp_intro/kamp_intro/obj/",
+        "outputPath": "/Users/ahmedkamal/CSharp-Angular/kamp_intro/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmedkamal/.config/NuGet/NuGet.Config"
