@@ -1,0 +1,13 @@
+/Users/ahmedkamal/CSharp-Angular/ClassIntro/bin/Debug/netcoreapp3.1/ClassIntro.deps.json
+/Users/ahmedkamal/CSharp-Angular/ClassIntro/bin/Debug/netcoreapp3.1/ClassIntro.runtimeconfig.json
+/Users/ahmedkamal/CSharp-Angular/ClassIntro/bin/Debug/netcoreapp3.1/ClassIntro.runtimeconfig.dev.json
+/Users/ahmedkamal/CSharp-Angular/ClassIntro/bin/Debug/netcoreapp3.1/ClassIntro.dll
+/Users/ahmedkamal/CSharp-Angular/ClassIntro/bin/Debug/netcoreapp3.1/ClassIntro.pdb
+/Users/ahmedkamal/CSharp-Angular/ClassIntro/obj/Debug/netcoreapp3.1/ClassIntro.csproj.AssemblyReference.cache
+/Users/ahmedkamal/CSharp-Angular/ClassIntro/obj/Debug/netcoreapp3.1/ClassIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedkamal/CSharp-Angular/ClassIntro/obj/Debug/netcoreapp3.1/ClassIntro.AssemblyInfoInputs.cache
+/Users/ahmedkamal/CSharp-Angular/ClassIntro/obj/Debug/netcoreapp3.1/ClassIntro.AssemblyInfo.cs
+/Users/ahmedkamal/CSharp-Angular/ClassIntro/obj/Debug/netcoreapp3.1/ClassIntro.csproj.CoreCompileInputs.cache
+/Users/ahmedkamal/CSharp-Angular/ClassIntro/obj/Debug/netcoreapp3.1/ClassIntro.dll
+/Users/ahmedkamal/CSharp-Angular/ClassIntro/obj/Debug/netcoreapp3.1/ClassIntro.pdb
+/Users/ahmedkamal/CSharp-Angular/ClassIntro/obj/Debug/netcoreapp3.1/ClassIntro.genruntimeconfig.cache

@@ -1,17 +1,19 @@
-﻿<Properties StartupConfiguration="{F0BC39D0-B66E-4F0A-86BE-57FE96371064}|Default">
+﻿<Properties StartupConfiguration="{22A6A64B-C8FD-4D1E-BF7C-827935A749E5}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassIntro PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.kamp__intro PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="donguler/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassIntro/Program.cs">
     <Files>
-      <File FileName="donguler/Program.cs" Line="14" Column="75" />
+      <File FileName="ReferencesValueType/Program.cs" Line="1" Column="1" />
+      <File FileName="donguler/Program.cs" />
+      <File FileName="ClassIntro/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="kamp_intro" expanded="True">
-            <Node name="donguler" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-            <Node name="kamp_intro" expanded="True" />
+            <Node name="ClassIntro" expanded="True" />
+            <Node name="donguler" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -19,8 +21,10 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Math PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ReferencesValueType FirstBuild="True" />
 </Properties>

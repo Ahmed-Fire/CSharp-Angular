@@ -1,0 +1,13 @@
+/Users/ahmedkamal/CSharp-Angular/Methods/bin/Debug/netcoreapp3.1/Methods.deps.json
+/Users/ahmedkamal/CSharp-Angular/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.json
+/Users/ahmedkamal/CSharp-Angular/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.dev.json
+/Users/ahmedkamal/CSharp-Angular/Methods/bin/Debug/netcoreapp3.1/Methods.dll
+/Users/ahmedkamal/CSharp-Angular/Methods/bin/Debug/netcoreapp3.1/Methods.pdb
+/Users/ahmedkamal/CSharp-Angular/Methods/obj/Debug/netcoreapp3.1/Methods.csproj.AssemblyReference.cache
+/Users/ahmedkamal/CSharp-Angular/Methods/obj/Debug/netcoreapp3.1/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedkamal/CSharp-Angular/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfoInputs.cache
+/Users/ahmedkamal/CSharp-Angular/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfo.cs
+/Users/ahmedkamal/CSharp-Angular/Methods/obj/Debug/netcoreapp3.1/Methods.csproj.CoreCompileInputs.cache
+/Users/ahmedkamal/CSharp-Angular/Methods/obj/Debug/netcoreapp3.1/Methods.dll
+/Users/ahmedkamal/CSharp-Angular/Methods/obj/Debug/netcoreapp3.1/Methods.pdb
+/Users/ahmedkamal/CSharp-Angular/Methods/obj/Debug/netcoreapp3.1/Methods.genruntimeconfig.cache

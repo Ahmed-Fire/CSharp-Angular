@@ -1,0 +1,13 @@
+/Users/ahmedkamal/CSharp-Angular/Math/bin/Debug/netcoreapp3.1/Math.deps.json
+/Users/ahmedkamal/CSharp-Angular/Math/bin/Debug/netcoreapp3.1/Math.runtimeconfig.json
+/Users/ahmedkamal/CSharp-Angular/Math/bin/Debug/netcoreapp3.1/Math.runtimeconfig.dev.json
+/Users/ahmedkamal/CSharp-Angular/Math/bin/Debug/netcoreapp3.1/Math.dll
+/Users/ahmedkamal/CSharp-Angular/Math/bin/Debug/netcoreapp3.1/Math.pdb
+/Users/ahmedkamal/CSharp-Angular/Math/obj/Debug/netcoreapp3.1/Math.csproj.AssemblyReference.cache
+/Users/ahmedkamal/CSharp-Angular/Math/obj/Debug/netcoreapp3.1/Math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedkamal/CSharp-Angular/Math/obj/Debug/netcoreapp3.1/Math.AssemblyInfoInputs.cache
+/Users/ahmedkamal/CSharp-Angular/Math/obj/Debug/netcoreapp3.1/Math.AssemblyInfo.cs
+/Users/ahmedkamal/CSharp-Angular/Math/obj/Debug/netcoreapp3.1/Math.csproj.CoreCompileInputs.cache
+/Users/ahmedkamal/CSharp-Angular/Math/obj/Debug/netcoreapp3.1/Math.dll
+/Users/ahmedkamal/CSharp-Angular/Math/obj/Debug/netcoreapp3.1/Math.pdb
+/Users/ahmedkamal/CSharp-Angular/Math/obj/Debug/netcoreapp3.1/Math.genruntimeconfig.cache

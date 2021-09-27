@@ -1,0 +1,12 @@
+/Users/ahmedkamal/CSharp-Angular/kamp_intro/bin/Debug/netcoreapp3.1/kamp_intro.deps.json
+/Users/ahmedkamal/CSharp-Angular/kamp_intro/bin/Debug/netcoreapp3.1/kamp_intro.runtimeconfig.json
+/Users/ahmedkamal/CSharp-Angular/kamp_intro/bin/Debug/netcoreapp3.1/kamp_intro.runtimeconfig.dev.json
+/Users/ahmedkamal/CSharp-Angular/kamp_intro/bin/Debug/netcoreapp3.1/kamp_intro.dll
+/Users/ahmedkamal/CSharp-Angular/kamp_intro/bin/Debug/netcoreapp3.1/kamp_intro.pdb
+/Users/ahmedkamal/CSharp-Angular/kamp_intro/obj/Debug/netcoreapp3.1/kamp_intro.csprojAssemblyReference.cache
+/Users/ahmedkamal/CSharp-Angular/kamp_intro/obj/Debug/netcoreapp3.1/kamp_intro.AssemblyInfoInputs.cache
+/Users/ahmedkamal/CSharp-Angular/kamp_intro/obj/Debug/netcoreapp3.1/kamp_intro.AssemblyInfo.cs
+/Users/ahmedkamal/CSharp-Angular/kamp_intro/obj/Debug/netcoreapp3.1/kamp_intro.csproj.CoreCompileInputs.cache
+/Users/ahmedkamal/CSharp-Angular/kamp_intro/obj/Debug/netcoreapp3.1/kamp_intro.dll
+/Users/ahmedkamal/CSharp-Angular/kamp_intro/obj/Debug/netcoreapp3.1/kamp_intro.pdb
+/Users/ahmedkamal/CSharp-Angular/kamp_intro/obj/Debug/netcoreapp3.1/kamp_intro.genruntimeconfig.cache
